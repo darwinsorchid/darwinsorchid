@@ -23,10 +23,10 @@ FEATURES             Location/Qualifiers
      personal_info    1...3000000000
                      /name="Alexandra"
                      /occupation="Biologist"
-                     /location="Thessaloniki, Greece"
-                     /interests="Bioinformatics, Evolutionary Developmental Biology, Networks & Complex Systems in Biology"
+                     /geo_loc_name="Thessaloniki, Greece"
+                     /sci_interests="Bioinformatics, Evolutionary Developmental Biology, Networks & Complex Systems in Biology"
                      /languages.programming="Python, R"
-                     /languages.real = "Greek, English"
+                     /languages.real ="Greek, English"
 ```
 
 
