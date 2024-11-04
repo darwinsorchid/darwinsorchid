@@ -1,0 +1,30 @@
+<svg width="500px" height="530px" xmlns="http://www.w3.org/2000/svg" fill="#161b22" rx="15">
+    <rect width="970px" height="530px" fill="#161b22" rx="15"/>
+    <text x="15" y="30" fill="#c9d1d9" class="ascii">
+        <tspan x="175" y="30">             ╍╍╍╍╍╍ ▉       </tspan>
+        <tspan x="190" y="50">              ╍╍╍╍ ▉        </tspan>
+        <tspan x="205" y="70">               ╍╍ ▉         </tspan>
+        <tspan x="220" y="90">               ╍             </tspan>
+        <tspan x="225" y="110">             ╍ ▉          </tspan>
+        <tspan x="215" y="130">            ╍╍╍ ▉         </tspan>
+        <tspan x="200" y="150">           ╍╍╍╍╍ ▉        </tspan>
+        <tspan x="180" y="170">         ╍╍╍╍╍╍╍ ▉        </tspan>
+        <tspan x="165" y="190">        ╍╍╍╍╍╍╍╍╍ ▉        </tspan>
+        <tspan x="155" y="210">       ╍╍╍╍╍╍╍╍╍ ▉         </tspan>
+        <tspan x="150" y="230">       ╍╍╍╍╍╍╍╍ ▉          </tspan>
+        <tspan x="155" y="250">       ╍╍╍╍╍╍ ▉            </tspan>
+        <tspan x="170" y="270">        ╍╍╍╍ ▉             </tspan>
+        <tspan x="185" y="290">         ╍╍ ▉              </tspan>
+        <tspan x="200" y="310">          ▉                </tspan>
+        <tspan x="185" y="330">         ▉ ╍               </tspan>
+        <tspan x="170" y="350">        ▉ ╍╍╍              </tspan>
+        <tspan x="155" y="370">       ▉ ╍╍╍╍╍             </tspan>
+        <tspan x="145" y="390">      ▉ ╍╍╍╍╍╍╍            </tspan>
+        <tspan x="140" y="410">     ▉ ╍╍╍╍╍╍╍╍╍           </tspan>
+        <tspan x="145" y="430">      ▉ ╍╍╍╍╍╍╍╍╍         </tspan>
+        <tspan x="155" y="450">        ▉ ╍╍╍╍╍╍╍╍        </tspan>
+        <tspan x="170" y="470">          ▉ ╍╍╍╍╍╍        </tspan>
+        <tspan x="185" y="490">            ▉ ╍╍╍╍       </tspan>
+        <tspan x="200" y="510">              ▉ ╍╍       </tspan>
+</text>
+</svg>
