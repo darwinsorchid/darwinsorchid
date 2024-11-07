@@ -28,4 +28,7 @@ FEATURES             Location/Qualifiers
                      /languages.programming="Python, R"
                      /languages.real ="Greek, English"
 ```
+
+<!---
 <img src="DNA_image.svg" alt="DNA" width="60%" style="display: block; margin: auto;">
+---!>
