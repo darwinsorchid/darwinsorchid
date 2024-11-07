@@ -18,7 +18,7 @@ REFERENCE   2
   AUTHORS   Mpekou Alexandra
   TITLE     LinkedIn
   JOURNAL   🖇 https://www.linkedin.com/in/alexandra-mpekou-379356227/
-COMMENT     Female coding enthusiast 🙪🙪
+COMMENT     Female coding enthusiast
 FEATURES             Location/Qualifiers
      personal_info    1...3000000000
                      /name="Alexandra"
@@ -28,18 +28,4 @@ FEATURES             Location/Qualifiers
                      /languages.programming="Python, R"
                      /languages.real ="Greek, English"
 ```
-
-
-<!---
-    
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darwinsorchid&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwinsorchid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----!>
+<img src="DNA_image.svg" alt="DNA" width="60%" style="display: block; margin: auto;">
