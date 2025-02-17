@@ -29,6 +29,6 @@ FEATURES             Location/Qualifiers
                      /languages.real ="Greek, English"
 ```
 
-<div style="max-height: 1000px; overflow: hidden; display: flex; justify-content: center;">
+<div style="max-height: 900px; overflow: hidden; display: flex; justify-content: center;">
     <img src="DNA_image.svg" alt="DNA" width="100%">
 </div>
