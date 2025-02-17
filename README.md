@@ -1,4 +1,4 @@
-## Alexandra_Mpekou isolate GtHb(darwinsorchid), whole GitHub profile README.md
+## Alexandra_Bekou isolate GtHb(darwinsorchid), whole GitHub profile README.md
 ```genbank
 LOCUS       darwinsorchid   3000000000 bp    DNA     linear   PRI 24-APR-2000
 DEFINITION  Biologist
@@ -11,14 +11,14 @@ SOURCE      Homo sapiens (human)
             Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
             Catarrhini; Hominidae; Homo.
 REFERENCE   1
-  AUTHORS   Mpekou Alexandra
+  AUTHORS   Bekou Alexandra
   TITLE     Email
   JOURNAL   ✉ alexandra.bekoy@gmail.com
 REFERENCE   2
-  AUTHORS   Mpekou Alexandra
+  AUTHORS   Bekou Alexandra
   TITLE     LinkedIn
-  JOURNAL   🖇 https://www.linkedin.com/in/alexandra-mpekou-379356227/
-COMMENT     Female coding enthusiast
+  JOURNAL   🖇 https://www.linkedin.com/in/alexandra-bekou-379356227/
+COMMENT     🐇 
 FEATURES             Location/Qualifiers
      personal_info    1...3000000000
                      /name="Alexandra"
