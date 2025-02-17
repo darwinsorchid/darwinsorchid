@@ -29,4 +29,6 @@ FEATURES             Location/Qualifiers
                      /languages.real ="Greek, English"
 ```
 
-<img src="DNA_image.svg" alt="DNA" max-width="100%" height = "700px" style="display: inline-block; margin: 0; padding: 0;">
+<div style="max-height: 900px; overflow: hidden; display: flex; justify-content: center;">
+    <img src="DNA_image.svg" alt="DNA" width="100%">
+</div>
