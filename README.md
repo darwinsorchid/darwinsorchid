@@ -4,7 +4,7 @@ LOCUS       darwinsorchid   3000000000 bp    DNA     linear   PRI 24-APR-2000
 DEFINITION  Biologist
 ACCESSION   darwinsorchid
 VERSION     darwinsorchid.1
-KEYWORDS    Bioinformatics, Evolution, Artificial Intelligence
+KEYWORDS    Bioinformatics, Natural Computing, Artificial Intelligence
 SOURCE      Homo sapiens (human)
   ORGANISM  Homo sapiens
             Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
