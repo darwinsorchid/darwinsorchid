@@ -1,34 +1,49 @@
-## Alexandra_Bekou isolate GtHb(darwinsorchid), whole GitHub profile README.md
+# Hello, I'm [Alexandra](https://alexandrabekou.com/) 👋
+
+## From developmental biology to natural computing
+
+hiPSC organoid modeling · Bioinformatics · Bioinspired AI · Backend Engineering
+
+<br>
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-3776AB?logo=python&logoColor=white)
+
+<br>
+
+## In Case of AI Allegations
+
 ```genbank
 LOCUS       darwinsorchid   3000000000 bp    DNA     linear   PRI 24-APR-2000
 DEFINITION  Biologist
 ACCESSION   darwinsorchid
 VERSION     darwinsorchid.1
-KEYWORDS    Bioinformatics, Natural Computing, Artificial Intelligence
+KEYWORDS    Bioinformatics; Natural Computing; AI
 SOURCE      Homo sapiens (human)
   ORGANISM  Homo sapiens
             Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
             Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
             Catarrhini; Hominidae; Homo.
 REFERENCE   1
-  AUTHORS   Bekou Alexandra
-  TITLE     Email
-  JOURNAL   ✉ alexandra.bekoy@gmail.com
-REFERENCE   2
-  AUTHORS   Bekou Alexandra
-  TITLE     LinkedIn
-  JOURNAL   🖇 https://www.linkedin.com/in/alexandra-bekou-379356227/
-COMMENT      
-FEATURES             Location/Qualifiers
-     personal_info    1...3000000000
-                     /name="Alexandra"
-                     /occupation="Biologist"
-                     /geo_loc_name="Thessaloniki, Greece"
-                     /sci_interests="Computational Biology, Networks & Complex Systems in Biology, Natural Computing, Bio-inspired AI"
-                     /languages.programming="Python, R"
-                     /languages.real ="Greek, English"
-```
+  AUTHORS   Alexandra Bekou
+  TITLE     Personal Website
+  JOURNAL   https://alexandrabekou.com/
+COMMENT
+COMMENT
+     research        1...1000000000
+                     /interest="Complex systems modeling"
+                     /interest="Natural computing"
+                     /interest="Bioinspired AI"
 
-<!-- <div style="max-height: 900px; overflow: hidden; display: flex; justify-content: center;">
-    <img src="DNA_image.svg" alt="DNA" width="100%">
-</div> -->
+     engineering     1000000001...2000000000
+                     /skills="Python, R, FastAPI, Redis, Keras"
+
+     fun_projects    2000000001...3000000000
+                     /status="ongoing"
+```
