@@ -1,6 +1,6 @@
 # Hello, I'm [Alexandra](https://alexandrabekou.com/) 👋
 
-## From developmental biology to natural computing
+## From developmental biology to natural computing and bioinformatics
 
 hiPSC organoid modeling · Bioinformatics · Bioinspired AI · Backend Engineering
 
